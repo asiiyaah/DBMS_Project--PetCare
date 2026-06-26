@@ -283,7 +283,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **AsherWood39** - *Initial work* - [GitHub](https://github.com/AsherWood39)
+- **AsherWood39** - [GitHub](https://github.com/AsherWood39)
+- **asiiyaah** - [GitHub](https://github.com/asiiyaah)
+- **Athi183** - [GitHub](https://github.com/Athi183)
+- **AnnaTJeby** - [GitHub](https://github.com/AnnaTJeby)
 
 ---
 
